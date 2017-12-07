@@ -1,5 +1,5 @@
 {
-    "name": "kaperys/financial",
+    "name": "plehanov/financial",
     "description": "A simple PHP ISO8583 pack and unpack library",
     "license": "MIT",
     "authors": [
